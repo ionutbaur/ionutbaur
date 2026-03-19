@@ -39,6 +39,7 @@ Tools:
     • Bug/development Tracking: JIRA, Trac
     • Tickets and incidents: HP Service Manager, Service Now
     • Project Management: JIRA, Confluence
+    • AI: GitHub Copilot, Continue.dev, Claude, Google Gemini, ChatGPT, DeepSeek
 
 
 **RELEVANT PROJECTS HISTORY**
